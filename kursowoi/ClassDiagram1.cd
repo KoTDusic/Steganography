@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="kursowoi.simvols">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAwAAAAgAAAAAIAAAAAAAAAAQAAEAAEAAAAAQAA=</HashCode>
+      <FileName>algoritm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.algoritm">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgEgAAACAAQAAiAAIAAAEIAEAAAAAAIAAQCAQQAAAE=</HashCode>
+      <FileName>algoritm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.Bits" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACCAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bits.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.Form1" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAACAAABAAAACAAAACAAAAABBAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.Form2" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAEAAAKCIABGAAACAAAAKYAAAAgAIAEwCEAAAASA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.Form3" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAEAAAKCIABGAAACEAAAKYAAAAgAIAAwCEAAAASA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kursowoi.Form4" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAAEAAAKCIABGAAACEAAAKYAAAAgAIAAwCEAAAASA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
